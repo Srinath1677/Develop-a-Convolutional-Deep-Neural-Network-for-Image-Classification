@@ -46,9 +46,9 @@ Select a single test image, pass it through the trained CNN, and display the act
 
 ## PROGRAM
 
-### Name: Isaac Raja T
+### Name: Srinath YG
 
-### Register Number: 212224040123
+### Register Number: 212224230274
 
 ```python
 
